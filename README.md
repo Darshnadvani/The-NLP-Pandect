@@ -371,6 +371,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 * 📙 [Applied NLP Thinking](https://explosion.ai/blog/applied-nlp-thinking) - Applied NLP Thinking: How to Translate Problems into Solutions [Blog, June 2021]
 * 🎥 [Introduction to NLP for Industry Use](https://www.youtube.com/watch?v=VRur3xey31s) - DataTalksClub presentation on Introduction to NLP for Industry Use [Recording, December 2021]
 * 📙 [Measuring Embedding Drift](https://arize.com/blog/embedding-drift/) - Best practices for monitoring drift of NLP models [Blog, December 2022]
+* 📙 [Drift in Machine Learning](https://www.fiddler.ai/blog/drift-in-machine-learning-how-to-identify-issues-before-you-have-a-problem) - How to Identify Issues Before You Have a Problem [Blog, January 2022]
 
 ### MLOps for NLP
 MLOps, especially when applied to NLP, is a set of best practices around automating various parts of the workflow when building and deploying NLP pipelines.
@@ -406,6 +407,7 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * 📙 [DataRobot Challenger Models](https://www.datarobot.com/blog/introducing-mlops-champion-challenger-models) - MLOps Champion/Challenger Models
 * 📙 [State of MLOps Blog](https://www.stateofmlops.com/) by Dr. Ori Cohen
 * 📙 [MLOps Ecosystem Overview](https://arize.com/wp-content/uploads/2021/04/Arize-AI-Ecosystem-White-Paper.pdf) [Blog, 2021]
+* 📙 [Metrics vs. Inferences](https://www.fiddler.ai/blog/should-enterprises-observe-metrics-or-inferences) - Which should you observe? [Blog, February 2024]
 
 #### Learning Material
 * 🗂 [MLOps cource](https://madewithml.com/#mlops) by Made With ML
@@ -489,12 +491,13 @@ Additionally, there are two more components that are not as prevalent for NLP an
 * ⭐ [MLRun](https://github.com/mlrun/mlrun) - Machine Learning automation and tracking [GitHub, 1425 stars]
 * 🔱 [DataRobot MLOps](https://www.datarobot.com/platform/mlops/) - DataRobot MLOps provides a center of excellence for your production AI
 * 🔱 [Cortex](https://www.cortex.dev/) - containers as a service on AWS [Paid Service]
+* 🔱 [Fiddler AI](https://fiddler.ai) - All-in-one ML and LLM observability. Fastest LLM Guardrails. 
 
 ##### Model Centric
 * 🔱 [Algorithmia](https://algorithmia.com/) - minimize risk with advanced reporting and enterprise-grade security and governance across all data, models, and infrastructure [Paid Service]
 * 🔱 [Dataiku](https://www.dataiku.com/) - dataiku is for teams who want to deliver advanced analytics using the latest techniques at big data scale [Paid Service]
 * ⭐ [Evidently AI](https://evidentlyai.com/) - tools to analyze and monitor machine learning models [Free and Open Source] [Link to GitHub](https://github.com/evidentlyai/evidently)
-* 🔱 [Fiddler](https://www.fiddler.ai/) - ML Model Performance Management Tool [Paid Service]
+* 🔱 [Fiddler](https://www.fiddler.ai/) - All-in-one ML and LLM observability. Fastest LLM Guardrails.  [Paid Service]
 * 🔱 [Hydrosphere](https://hydrosphere.io/) - open-source platform for managing ML models [Paid Service]
 * 🔱 [Verta](https://www.verta.ai/) - AI and machine learning deployment and operations [Paid Service]
 * 🔱 [Domino Model Ops](https://www.dominodatalab.com/product/model-ops/) - Deploy and Manage Models to Drive Business Impact [Paid Service]
